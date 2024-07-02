@@ -53,7 +53,7 @@ public class PolicyHolder
       this.weight = obj2.getWeight();
    }
    
-   //getters//
+   //Setters and Getters//
    
    /**
    @return The Policyholder's first name
@@ -103,8 +103,7 @@ public class PolicyHolder
       return weight;
    }
 
-   
-   //setters//
+  
    
    /**
    @param firstName The PolicyHolder's first name
